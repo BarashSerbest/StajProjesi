@@ -170,8 +170,3 @@ ecommerce.db (oluşur/seed edilir)
 
 ## Lisans
 İç proje / eğitim amaçlı (lisans belirtilmemişse eklenmesi önerilir).
-
-## Teşekkür
-FastAPI & React ekosistemi, açık kaynak topluluğu.
-
-Hazır. README içeriğini `README.md` dosyasına koyabilirsin; istersen dosyayı da oluşturabilirim. İster misin?
