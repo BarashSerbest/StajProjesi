@@ -4,7 +4,7 @@ Barış Serbest / 5220505051
 Akıllı E-Ticaret Sipariş Anomali Tespit ve İzleme Uygulaması 
 
 Gerçek zamanlı sipariş akışında iptal oranı artışı, geç kargo, stok tükenmesi gibi operasyonel riskleri tespit eden; gösterge paneli, envanter yönetimi, 
-kullanıcı kimlik doğrulama ve bildirim sistemi içeren uçtan uca bir izleme çözümü işlemlerini gerçekleştiren bir protatip uygulama.
+kullanıcı kimlik doğrulama ve bildirim sistemi içeren uçtan uca bir izleme çözümü işlemlerini gerçekleştiren bir prototip uygulama.
 
 ## Özellikler
 - Dinamik anomali tespiti (iptal oranı, geç kargo, düşük stok)
